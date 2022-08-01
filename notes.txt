@@ -1,0 +1,4 @@
+render each pixel as a vue component {
+  attributes= coords, colour(owner), 
+}
+render each component as part of a 
